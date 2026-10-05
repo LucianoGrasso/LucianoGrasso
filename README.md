@@ -4,7 +4,7 @@
 
 Técnico Universitario en Informática (UTFSM). Fundador de [Altus Software](https://altussoftware.cl), un estudio que construye plataformas a medida para pequeños negocios, y Encargado del Simulador de Vuelo en la Escuela de Aviación Naval (Armada de Chile).
 
-📍 Valparaíso, Chile · [altussoftware.cl](https://altussoftware.cl) · [LinkedIn](https://linkedin.com/in/luciano-grasso-sadi) · lucianograssosadi05@gmail.com
+📍 La Cruz, Chile · [altussoftware.cl](https://altussoftware.cl) · [LinkedIn](https://linkedin.com/in/luciano-grasso-sadi) · lucianograssosadi05@gmail.com
 
 ## En qué trabajo
 
@@ -44,5 +44,4 @@ Laravel, React, Inertia.js, Laravel Reverb (WebSockets), Python, MySQL, Docker
 
 ## Ahora
 
-- Aprendiendo TypeScript, migrando mis proyectos en Next.js.
 - Abierto a oportunidades como desarrollador full stack.
